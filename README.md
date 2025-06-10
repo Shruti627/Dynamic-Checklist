@@ -23,6 +23,8 @@ A beautifully styled, interactive checklist web app that helps you stay organize
 
 🖌️ Custom Styling — Polished buttons, neat inputs, and smooth section spacing.
 
+**Live** **Demo** **:** **-** https://shruti627.github.io/DynamicChecklist/
+
 
 🧠 **Tech** **Behind** **the** **Magic**:
 
