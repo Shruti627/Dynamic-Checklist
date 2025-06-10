@@ -1,0 +1,94 @@
+  body {
+
+      background: url(blur2.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      padding: 40px;
+      display: flex;
+      justify-content: center;
+  }
+
+  .container {
+      padding: 25px;
+      max-width: 800px;
+      width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+      background-color: rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(10px);
+
+  }
+
+  h1 {
+      text-align: center;
+      margin-bottom: 20px;
+  }
+
+  .add-section-form,
+  .add-i-form {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+  }
+
+  input[type="text"] {
+      flex: 1;
+      padding: 10px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+  }
+
+  button {
+      padding: 10px 14px;
+      background-color: #0077b6;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+  }
+
+  button:hover {
+      background-color: #005f87;
+  }
+
+  .section {
+      margin-bottom: 30px;
+      border-top: 1px solid #ddd;
+      padding-top: 20px;
+  }
+
+  .section-header {
+      display: flex;
+      justify-content: space-between;
+
+  }
+
+  .section-header h2 {
+      margin: 0;
+      font-size: 1.2rem;
+  }
+
+  .i {
+      display: flex;
+
+      margin: 8px 0;
+  }
+
+  .i input {
+      margin-right: 10px;
+  }
+
+  .i label {
+      flex: 1;
+  }
+
+  .delete-btn {
+      background-color: crimson;
+      padding: 4px 8px;
+      font-size: 0.8rem;
+  }
+
+  .add-i-form {
+      margin-top: 10px;
+  }
