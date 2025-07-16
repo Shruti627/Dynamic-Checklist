@@ -39,11 +39,7 @@ A beautifully styled, interactive checklist web app that helps you stay organize
 ## 👩‍💻 Author
 
 **Shruti Parikshit Sangvikar**  
-🎓 3rd Year Engineering Student – Zeal College of Engineering & Research  
-💡 Passionate about front-end development and building beautiful UIs
+🎓 3rd Year Engineering Student 
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
