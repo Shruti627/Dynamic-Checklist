@@ -24,7 +24,7 @@ A beautifully styled, interactive checklist web app that helps you stay organize
 
 ## 🚀 Live Demo
 
-🔗 [Click to View Dynamic ProChecklist](https://shruti627.github.io/DynamicChecklist/)
+🔗 [Click to View Dynamic ProChecklist](https://shruti627.github.io/Dynamic-Checklist/)
 
 ---
 
